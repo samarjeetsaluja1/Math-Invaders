@@ -1,0 +1,7 @@
+C:\Users\samar\Documents\Programming\C#\Math Invaders\Math Invaders\bin\Debug\Math Invaders.exe.config
+C:\Users\samar\Documents\Programming\C#\Math Invaders\Math Invaders\bin\Debug\Math Invaders.exe
+C:\Users\samar\Documents\Programming\C#\Math Invaders\Math Invaders\bin\Debug\Math Invaders.pdb
+C:\Users\samar\Documents\Programming\C#\Math Invaders\Math Invaders\obj\Debug\Math Invaders.csprojAssemblyReference.cache
+C:\Users\samar\Documents\Programming\C#\Math Invaders\Math Invaders\obj\Debug\Math Invaders.csproj.CoreCompileInputs.cache
+C:\Users\samar\Documents\Programming\C#\Math Invaders\Math Invaders\obj\Debug\Math Invaders.exe
+C:\Users\samar\Documents\Programming\C#\Math Invaders\Math Invaders\obj\Debug\Math Invaders.pdb
